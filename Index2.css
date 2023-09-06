@@ -1,0 +1,11 @@
+header {
+    background-color: rgb(34, 255, 0);
+    position: sticky;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+body {
+    color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
